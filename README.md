@@ -1,7 +1,7 @@
 # Junit-Testing-
 Here we are using Junit to test the code efficiency in different scenes. 
 
-JUnit tutorial provides basic and advanced concepts of unit testing in java with examples. Our junit tutorial is designed for beginners and professionals.
+JUnit tutorial provides basic and advanced concepts of unit testing in java with examples.
 
 It is an open-source testing framework for java programmers. The java programmer can create test cases and test his/her own code.
 
